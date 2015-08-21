@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Driven Technical</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/driventechnical-portfolio.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    
+    <!-- Header -->
+    <header id="top" class="header">
+	<div class="row main-menu-row">
+		<div class="col-md-8 col-md-offset-2 menu">
+			<div class="col-md-2 logo-div">
+				<a href="#"><img class="img-responsive " src="img/driven-logo.png"></a>
+			</div>
+			<div class="col-md-6 pull-right">
+				<nav class="navbar navbar-default">
+				  <div class="container-fluid">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+					  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					  </button>
+					  <a class="navbar-brand" href="#"></a>
+					</div>
+
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					  <ul class="nav navbar-nav navbar-right">
+						<li><a href="#">Home<span class="sr-only">(current)</span></a></li>
+						<li><a href="#">About </a></li>
+						<li><a href="#">Services</a></li>
+						<li><a href="#">Contact</a></li>
+						
+					  </ul>
+					</div>
+				  </div>
+				</nav>
+			</div>
+		</div>
+	</div>
+	<br><br><br><br>
+		<h3 class="header-heading"> SUBSCRIBE TO OUR NEWSLETTER </h3>
+		<br>
+				<p class="header-align-text"> 
+					No spam promise - only our latest news and freebies! 
+					Our services has been the key of success of our customers.<BR>
+				Wether you are in need of best expertise or you are working toward a product to capture the market. We will listen and help you
+				</p>
+				<BR>
+		<div class="row main-menu-row">
+			<div class="col-md-2 col-lg-offset-5">
+				<div class="center-block">
+					<a href="#" class="btn btn-lg btn-light btn-header">SEE WHAT WE DO</a>
+				</div>
+			</div>
+		</div>
+    </header>
+<img class="img-portfolio img-responsive " src="img/pattern-img.png">
+    <!-- About -->
+    <div class="container">
+	  <div class="row">
+		<div class="col-md-5 service">
+			<hr class="small">
+		</div>
+		<div class="col-md-2">
+			<h3 class="services-heading"> OUR SERVICES </h3>
+		</div>
+		<div class="col-md-5 service">
+			<hr class="small">
+		</div>
+	  </div>
+	  <div class="row">
+			<h4 class="service-tag-line"> Our services has been the key of success of our customers. Wether you are in need of best expertise or you are working toward a 
+			product to capture the market. We will listen and help you formulate solutions to address your needs. </h4>
+		</div>
+		<br/>
+	  <div class="row vdivide services-div-1">
+		<div class="col-sm-3 text-center s-div-1"><img class="img-portfolio img-responsive" src="img/hardware-integration-icon.png"><br>Dummy Text<br><br><hr class="small"></div>
+		<div class="col-sm-3 text-center s-div-2"><img class="img-portfolio img-responsive" src="img/software-integration-icon.png"><br>Dummy Text<br><br><hr class="small"></div>
+		<div class="col-sm-3 text-center s-div-3"><img class="img-portfolio img-responsive" src="img/proof-concepts-icon.png"><br>Dummy Text<br><br><hr class="small"></div>
+		<div class="col-sm-3 text-center s-div-4"><img class="img-portfolio img-responsive" src="img/lane-audits-icon.png"><br>Dummy Text<br><br><hr class="small"></div>
+	  </div>
+	  <br>
+	  <div class="row vdivide services-div-2">
+		<div class="col-sm-3 text-center s-div-5"><img class="img-portfolio img-responsive" src="img/lane-integration-icon.png"><br>Dummy Text<br><br><hr class="small"></div>
+		<div class="col-sm-3 text-center s-div-6"><img class="img-portfolio img-responsive" src="img/enterprise-monitoring-icon.png"><br>Dummy Text<br><br><hr class="small"></div>
+		<div class="col-sm-3 text-center s-div-7"><img class="img-portfolio img-responsive" src="img/ITS-installation-icon.png"><br>Dummy Text<br><br><hr class="small"></div>
+		<div class="col-sm-3 text-center s-div-8"><img class="img-portfolio img-responsive" src="img/training-icon.png"><br>Dummy Text<br><br><hr class="small"></div>
+	  </div>
+	  <br><br>
+	  
+	  <div class="container">
+		<div class="row">
+			<div class="col-md-5">
+				<hr class="small">
+			</div>
+			<div class="col-md-2">
+				<button type="button" class="btn btn-lg btn-warning ">LEARN MORE</button>
+			</div>
+			<div class="col-md-5">
+				<hr class="small">
+			</div>
+		</div>
+	</div>
+	</div>
+	
+	<br><br><br><br>
+	
+	<!-- About us -->
+	
+	<header  class="about-us">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-5 col-lg-offset-1 gentleman">
+					<img class=" img-responsive" src="img/gentleman-img.png">
+				</div>
+				<div class="col-md-5 about-detail">
+				<br>
+					<h3 style="text-decoration:underline"> ABOUT US </h3>
+					<p class="about-us-align-text"> 
+						Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+						Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+						when an unknown printer took a galley of type and scrambled it to make a type
+						specimen book. It has survived not only five centuries, but also the leap into
+						electronic typesetting, remaining essentially unchanged. It was popularised in
+						the 1960s with the release of Letraset sheets containing Lorem
+					</p>
+					<p class="about-us-align-text"> 
+						Ipsum passages, and more recently with desktop publishing software
+						like Aldus PageMaker including versions of Lorem Ipsum.
+						<br><br>
+						<a href="#" class="btn btn-lg btn-light">READ MORE</a>
+						<br>
+					</p>
+						
+				</div>
+			</div>
+		</div>	
+    </header>
+
+    <div class="container text-center">
+	<br><br>
+		<h3 class="subscribe-heading"> SUBSCRIBE TO OUR NEWSLETTER </h3>
+		<p class="subscribe-us-align-text"> No spam promise - only our latest news and freebies! </p>
+		<div class="row">
+			<div class="col-md-8 col-lg-offset-2">
+				<img class=" img-responsive" src="img/hr-line.png">
+			</div>
+		</div>
+		<br>
+		<div class="row">
+			<div class="col-md-4 col-lg-offset-4 email-address-div">
+				<div class="input-group">
+					<input type="text" class="form-control email-field" id="exampleInputAmount" placeholder="your email address">
+					<span class="input-group-addon email-send-button" type="submit"><span class="glyphicon glyphicon-send" aria-hidden="true"></span></span>
+				</div>
+			</div>
+		</div>
+		<br>
+<br><br>		
+	</div>
+    
+    
+
+    <!-- Map -->
+
+    <!-- Footer -->
+
+        <div class="container footer">
+           
+		<div class="row ">
+			
+			<!-- left Footer -->
+                <div class="col-md-4 col-md-offset-1  left-footer">
+					<div class="row">
+						<h4 style="color: #BF3F19;font-family: fantasy;    margin-bottom: -10px;" > DRIVEN TECHINICAL SOLUTION, LLC </h4>
+					</div>
+					<div class="row">
+						<hr class="small-left">
+					</div>
+					<div class="row">
+						<div class="col-md-8 col-lg-offset-2 ">
+							<div class="col-md-2">
+								<img src="img/address-icon.png" class="img-responsive" alt="Responsive image">
+							</div>	
+							<div class="col-md-8 glypcon">
+								<p class="address">1400 Preston Rd site 400 <br> Plano, tx 75093, USA</p>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-8 col-lg-offset-2">
+							<div class="col-md-2">
+								<img src="img/phone-icon.png" class="img-responsive" alt="Responsive image">
+							</div>	
+							<div class="col-md-8 glypcon">
+								<p class="address">Phone: 00 &nbsp123 &nbsp4568 <br> Fax: 00 &nbsp 080 1235</p>
+							</div>
+						</div>
+					</div>
+					<div class="row ">
+						<div class="col-md-8 col-lg-offset-2">
+							<div class="col-md-2">
+								<img src="img/email-icon.png" class="img-responsive ft-img" alt="Responsive image">
+							</div>	
+							<div class="col-md-8 glypcon">
+								<p class="address">info@email.com</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Right Footer -->
+				<div class="col-md-6 right-footer ">
+					<div class="row">
+						<h4 class="right-footer-paragraph" style="color: #BF3F19;font-family: fantasy;    margin-bottom: -10px;" >LATEST NEWS </h4>
+					</div>
+					<div class="row">
+						<hr class="small-right">
+					</div>
+					<div class="row col-md-12">
+						<p class="align-text"> 
+						Fusce efficitur placerat nulla quis efficitur. Aenean sit amet consequat odio, non consequat ligula. 
+						Praesent id pellentesque magna. In imperdiet imperdiet ligula, quis venenatis eros vestibulum bibendum.
+						Cras ac lacinia nulla. In sed neque vitae urna porttitor rutrum id sed ipsum. Ut vitae viverra augue.
+						Praesent ullamcorper at felis a rutrum. Curabitur eleifend cursus erat. Suspendisse a augue tincidunt,
+						egestas nisl vel, maximus tellus. <br>
+						Donec finibus semper nunc, a finibus neque iaculis a. Sed tellus nisi, interdum ac molestie et, feugiat iaculis mauris. 
+						</p>
+					</div>
+				</div> 
+				
+            </div>
+			<div class="container">
+			<div class="row">
+				<div class="col-md-10 col-md-offset-1">
+					<hr class="large" />
+				</div>
+			</div>
+			</div>
+		
+			
+			<div class="container">
+				<div class="row" >
+					<div class="span1">
+						Copyright &copy; Your Website 2014
+					</div>
+					<div class="span12">
+						<i class="fa fa-facebook fa-fw-ft fa-1x"></i>
+						<i class="fa fa-twitter fa-fw-ft fa-1x"></i>
+						<i class="fa fa-dribbble fa-fw-ft fa-1x"></i>
+					</div>
+				</div>
+				
+			</div>
+			<br/>
+			</div>
+</body>
+
+</html>
