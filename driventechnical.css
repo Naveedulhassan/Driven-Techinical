@@ -1,0 +1,472 @@
+/*!
+ * Start Bootstrap - Stylish Portfolio Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+/* Global Styles */
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+.header {
+    display: table;
+    position: relative;
+    width: 100%;
+    height: 75%;
+    background: url(../img/slide-bg.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
+.main-menu-row{
+	width:100%;
+}
+
+
+.logo-div{
+	padding: 15px;
+}
+
+
+.menu{
+
+    opacity: 0.8;
+    background-color: black;
+    padding: 15px;
+
+}
+
+
+.navbar-default {
+    background-color: rgba(248, 248, 248, 0);
+    border-color: rgba(231, 231, 231, 0);
+}
+
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #A93119;
+}
+
+
+.navbar-default .navbar-toggle {
+    border-color: #C0381D;
+}
+
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover {
+    color: #C63B1F;
+    background-color: rgba(142, 39, 39, 0);
+    /* border-bottom-style: inset; */
+    border-bottom-color: #C63B1F;
+    text-align: center;
+	position: static;
+}
+
+
+.navbar-default .navbar-nav>.active>a{
+    color: #FFFFFF;
+    background-color: rgba(142, 39, 39, 0);
+    text-align: center;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    color: #FFFFFF;
+}
+
+
+.header-heading{
+	color:white;
+	text-align:center;
+}
+
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #BD381C;
+    background-color: transparent;
+	border-bottom-style: inset;
+    border-bottom-color: #C63B1F;
+	text-align: center;
+}
+
+.header-align-text {
+    text-align: center;
+    color: #E0DADA;
+    padding: 5px;
+    font-size: large;
+}
+
+
+.btn-light {
+    border-radius: 1;
+    color: rgba(251, 251, 251, 0.54);
+    background-color: rgba(76, 68, 68, 0);
+    border-color: rgba(251, 251, 251, 0.54);
+}
+
+
+.btn-light:hover,
+.btn-light:focus,
+.btn-light:active {
+    color: rgb(191, 63, 25);
+    background-color: rgba(255,255,255,0.8);
+}
+
+
+.btn-warning{
+		
+		padding: 10px 33px;
+	}
+	
+	
+.row.vdivide [class*='col-']:not(:last-child):after {
+  background: #e0e0e0;
+  width: 1px;
+  content: "";
+  display:block;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  right: 0;
+  min-height: 60px;
+  max-height:175px;
+  
+}
+
+
+.services-div-1{
+	color:#C1C1C1;	
+}
+
+
+.services-div-2{
+	color:#C1C1C1;
+	margin-top: -26px;
+}
+
+
+.service{
+	margin-top: 30px;
+}
+
+
+.services-heading{
+	margin-top: 40px;
+	text-align:center;
+	color: #EF4715;
+	font-weight: bold;
+    text-decoration:underline;
+}
+
+
+.our-services{
+	margin-top:-25px;
+}
+
+
+.service-tag-line{
+	text-align:center;
+	color:#C1C1C1;
+	padding: 5px;
+}
+
+
+.s-div-1{
+    LINE-HEIGHT: 12px;
+}
+
+
+.s-div-3{
+    line-height: 17px;
+}
+
+
+.s-div-4{
+    line-height: 17px;
+}
+
+
+.s-div-5{
+    LINE-HEIGHT: 15px;
+}
+
+
+.s-div-7{
+    LINE-HEIGHT: 15px;
+}
+
+
+.s-div-8{
+    LINE-HEIGHT: 15px;
+}
+
+
+.about-us {
+    display: table;
+    position: relative;
+    width: 100%;
+    height: 70%;
+    background: url(../img/about-bg.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
+.gentleman{
+	margin-top: -82px;
+}
+
+
+.about-detail{
+	color:white;
+}
+
+
+.about-us-align-text{
+
+    text-align: left;
+    color: #E4E0E0;
+    font-size: larger;
+
+}
+
+
+.subscribe-heading{
+
+	margin-top: 40px;
+	text-align:center;
+	color: #EF4715;
+	font-weight: bold;
+    
+}
+
+
+.subscribe-us-align-text {
+    text-align:center;
+    color: #E4E0E0;
+    
+}
+
+
+.email-address-div{
+
+
+}
+.email-field{
+    display: table-cell;
+    text-align: center;
+    padding: 25px;
+    font-size: large;
+    border-radius: 86px;
+	background-color: #eee;
+}
+
+
+.email-send-button{
+	border-radius: 84px;
+	padding: 6px 18px;
+}
+
+
+/* Custom Horizontal Rule */
+
+hr.small-left {
+    max-width: 238px;
+	margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #544E4E;
+}
+
+
+hr.small-right {
+    max-width: 609px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #544E4E;
+    margin-left: 15px;
+}
+
+
+hr.large{
+    max-width: 100%;
+	margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #544E4E;
+}
+
+
+/* fa  */
+
+.fa-fw {
+    width: 1.28571429em;
+    text-align: left;
+    color: #BF3F19;
+}
+
+.fa-fw-ft{
+	width: 1.28571429em;	color: #BF3F19;
+	color:white;
+}
+
+
+.fa-fw-ft:hover{
+	width: 1.28571429em;	
+	color: #BF3F19;
+	
+}
+
+/* footer  */
+.footer {
+    text-align: center;
+    background-color: #312D2D;
+	width:100%;
+	color:#827C7C;
+	border-bottom-style: solid;
+    border-bottom-color: #BF3F19;
+    border-bottom-width: 12px;
+}
+
+
+.left-footer {
+    margin-top: 40px;
+    border-right-style: solid;
+    border-right-width: thin;
+    border-right-color: #544E4E;
+}
+
+
+.align-text{
+    text-align:left;
+}
+
+
+.right-footer{
+	margin-top: 40px;
+}
+
+
+.right-footer-paragraph{
+    color: #BF3F19;
+    font-family: fantasy;
+    margin-bottom: -12px;
+    padding-left: 14px;
+	text-align:left;
+}
+
+
+/* About */
+
+.about {
+    padding: 50px 0;
+}
+
+/* Services */
+
+.services {
+    padding: 50px 0;
+}
+
+.service-item {
+    margin-bottom: 30px;
+}
+.address{
+	text-align:left;
+}
+
+/* Portfolio */
+
+
+
+.img-portfolio {
+    margin: 0 auto;
+}
+
+.img-portfolio:hover {
+    opacity: .6;
+      filter:alpha(opacity=60);
+	color:red;
+}
+
+
+/* Media Query */
+@media(max-width:768px) {
+
+	.address{
+		margin-top: -20px;
+	}
+	.btn-light{
+		margin-bottom: 14px;
+	}
+	.btn-warning{
+		margin: auto 40%;
+	}
+	.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: -78px;
+	margin-bottom: -50px;
+	}
+	.container>.navbar-header {
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: -73px;
+    margin-bottom: -105px;
+	}
+	.menu {
+    opacity: 0.8;
+    background-color: black;
+    padding: 7px;
+    margin-left: 28px;
+	}
+	.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #010101;
+	}
+	.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: -43px;
+    margin-left: 0;
+}
+
+.navbar-nav>li>a {
+    padding-top: 21px;
+}
+hr.small-right {
+    max-width: 100%;
+    margin-right: 12px;
+}
+	
+}
+
+
+@media(min-width:992px) { 
+	.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: -43px;
+    margin-left: 0;
+}
+.email-address-div {
+    margin-left: 33%;
+}
+.glypcon {
+        margin-left: -16px;
+    margin-top: -3px;
+}
+.navbar-nav>li>a {
+    padding-top: 21px;
+}
+}
